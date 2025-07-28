@@ -36,7 +36,7 @@ a {
 }
 
 .sidebar {
-  min-width: 300px;
+  flex-shrink: 0;
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
