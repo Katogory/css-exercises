@@ -54,6 +54,10 @@ a {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  box-sizing: border-box;
+  height: 350px;
+  width: 350px;
+  padding: 20px;
 }
 
 .footer {
