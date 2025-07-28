@@ -32,6 +32,7 @@ a {
 .main-layout {
   display: flex;
   flex-direction: row;
+  flex: auto;
 }
 
 .footer {
