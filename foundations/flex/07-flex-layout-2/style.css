@@ -17,6 +17,12 @@ body {
   color: white;
 }
 
+ul {
+  padding: 0px;
+  margin: 0px;
+  list-style-type: none;
+}
+
 .footer {
   height: 72px;
   background: #eee;
